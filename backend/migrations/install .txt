@@ -1,0 +1,3 @@
+"wokster/yii2-translation-manager": "v1.1@dev"
+
+yii migrate --migrationPath=@backend/migrations/
